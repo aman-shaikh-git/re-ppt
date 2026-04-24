@@ -1,0 +1,6 @@
+streamlit
+openpyxl
+pywin32
+pythoncom
+pathlib
+re
