@@ -72,6 +72,8 @@ You can start the tool in two ways:
 3. Click generate and download the final presentation.
 
 ---
+## Sample Data
+You can find the test input and output files here: https://drive.google.com/drive/folders/1t3scYa00TVdaIPm7Td3Lhfe056qEX9LW?usp=sharing
 
 ## Important Notes
 
